@@ -1,6 +1,6 @@
 
 ================================================================================
-Project - 2 --- Data Analysis With Python Pandas ----- Employee Salary  DataSet
+       --- Data Analysis With Python Pandas ----- Employee Salary  DataSet
 ================================================================================
 To perform data analysis, WE have   21  Data Analysis questions that we are going to solve one by one. Questions are as follows.
 ------------------------------------------
